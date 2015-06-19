@@ -9,7 +9,9 @@
   "author": "jvrdelafuente",
   "license": "ISC",
   "dependencies": {
+    "consolidate": "~0.13.1",
     "express": "~4.12.4",
-    "consolidate": "~0.13.1"
+    "gulp": "^3.9.0",
+    "gulp-livereload": "^3.8.0"
   }
 }

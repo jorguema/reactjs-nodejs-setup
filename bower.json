@@ -12,6 +12,7 @@
     "test",
     "tests"
   ],
-  "dependencies": {    
+  "dependencies": {
+    "react": "~0.13.3"
   }
 }
